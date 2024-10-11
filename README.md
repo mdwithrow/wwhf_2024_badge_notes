@@ -6,3 +6,8 @@ As a virtual atendee of WWHF 2024, I was grateful to recieve a blank PCB. For th
 * shout out to shilo from the discord server for providing pictures of the built board!
 
 ## Component list
+| Component                                                                            | Documents     | Price guess                                                                                         |
+| --------------------------------------------------------------------------------     |:-------------:| --------------------------------------------------------------------------------------------------: |
+| 2024 WWHF PCB (white)                                                                | ?             | priceless                                                                                           |
+| 3.7V 1200mAh 603450 Lipo Battery Rechargeable Battery Pack with JST connection       |               | [$4](https://www.aliexpress.us/item/2251832678527988.html?gatewayAdapt=glo2usa4itemAdapt)           |
+| ESP32-S3-WROOM-1 with antenna. Not sure on memory size?                              |               | [$4?](https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N8R2/15200058)  |
