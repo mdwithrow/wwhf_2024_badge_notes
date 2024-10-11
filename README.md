@@ -5,7 +5,7 @@ As a virtual atendee of WWHF 2024, I was grateful to recieve a blank PCB. For th
 
 ## Notes and questions
 * this looks useful after I get something soldered together: [ladderlogix/2024-WWHF-Badge-Writeup](https://github.com/ladderlogix/2024-WWHF-Badge-Writeup)
-* more reference for learning: [eurofurence/ef28-badge]()https://github.com/eurofurence/ef28-badge
+* more reference for learning: [eurofurence/ef28-badge](https://github.com/eurofurence/ef28-badge)
 * shout out to shilo from the discord server for providing pictures of the built board!
 * everything seems to be surface mount solder
 * for display module, i'm assuming the just bent the pins down and soldered to the pads? There seemed to be issues with them falling off from the announcements made. 
