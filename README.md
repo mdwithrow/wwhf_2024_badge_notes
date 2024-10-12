@@ -8,9 +8,12 @@ As a virtual attendee of WWHF 2024, I was grateful to receive a blank PCB. For t
    * [ladderlogix/2024-WWHF-Badge-Writeup](https://github.com/ladderlogix/2024-WWHF-Badge-Writeup)
    * [https://github.com/Cooperw/ctf/tree/master/2024-10-11-wwhf24](https://github.com/Cooperw/ctf/tree/master/2024-10-11-wwhf24)
 * more reference for learning: [eurofurence/ef28-badge](https://github.com/eurofurence/ef28-badge)
-* shout out to shilo from the discord server for providing pictures of the built board!
+* shout out to 'shilo' from the discord server for providing pictures of the built board!
 * everything seems to be surface mount (SMD)
-* for display module, I'm assuming the just bent the pins down and soldered to the pads? There seemed to be issues with them falling off from the announcements made. 
+   * [Surface Mount Soldering 101 (video)](https://www.youtube.com/watch?v=3NN7UGWYmBY)
+* for display module, I'm assuming the just bent the pins down and soldered to the pads? There seemed to be issues with them falling off from the announcements made.
+   * secure with hot glue or think about a differnt mounting plan
+* Will keep an eye out on the feed of the badge creator/coordinator for notes (maybe bill of material): [Mike Felch (Stay Ready)@ustayready](https://x.com/ustayready)
 
 ## Component list
 | Component                                                                              |Confidence?    | Documents     | Price guess                                                                                         | Quantity |
@@ -25,7 +28,9 @@ As a virtual attendee of WWHF 2024, I was grateful to receive a blank PCB. For t
 
 
 ## Rebuild ideas
-* contact share-er, like tap to share or reieve other nfcs tags. May have to add a reader.
-* pong 
+* contact share-er, like tap to share or receive other nfcs tags. May have to add a reader?
+* pong-esque or some other two player one button game
 * just a normal tamagotchi
-* wifi pwnagotchi
+* hash monster
+* very light weight piratebox. or even just one way web server.
+* pwnagotchi
