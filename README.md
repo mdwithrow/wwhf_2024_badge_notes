@@ -12,8 +12,8 @@ As a virtual attendee of WWHF 2024, I was grateful to receive a blank PCB. For t
 * shout out to 'shilo' from the discord server for providing pictures of the built board!
 * everything seems to be surface mount (SMD)
    * [Surface Mount Soldering 101 (video)](https://www.youtube.com/watch?v=3NN7UGWYmBY)
-* for display module, I'm assuming the just bent the pins down and soldered to the pads? There seemed to be issues with them falling off from the announcements made.
-   * secure with hot glue or think about a differnt mounting plan
+* for display module, I'm assuming they just bent the pins down and soldered to the pads? There seemed to be issues with them falling off from the announcements made.
+   * secure with hot glue or think about a different mounting plan
 * Will keep an eye out on the feed of the badge creator/coordinator for notes (maybe bill of material): [Mike Felch (Stay Ready)@ustayready](https://x.com/ustayready)
 
 ## Component list
