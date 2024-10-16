@@ -27,8 +27,8 @@ As a virtual attendee of WWHF 2024, I was grateful to receive a blank PCB. For t
 | tactile buttons                                                                        |               |               |                                                                                                     | 2        |        
 | USB Type-C Connector                                                                   |               |               |                                                                                                     | 1        |
 | nfc tag? Circle/clear                                                                  |               |               |                                                                                                     | 1        |
-| toggle switch                                                                          |               |               |                                                                                                     | 1        |
-| toggle switch                                                                          |               |               |                                                                                                     | 1        |
+| bunch of LEDs                                                                          |               |               |                                                                                                     | 1        |
+| bunch of resistors                                                                     |               |               |                                                                                                     | 1        |
 
 
 ## Chat GPT's guidance
